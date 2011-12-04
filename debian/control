@@ -1,0 +1,12 @@
+Source: yavdr-addon-e-uae
+Section: misc
+Priority: optional
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Standards-Version: 3.8.4
+Build-Depends: debhelper (>= 7), cdbs
+
+Package: yavdr-addon-e-uae
+Architecture: all
+Depends: ${yavdr-startup},${misc:Depends}, yavdr-utils, e-uae
+Description: yavdr-addon-e-uae
+ yavdr-addon-e-uae

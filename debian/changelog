@@ -1,0 +1,9 @@
+yavdr-addon-e-uae (0.2.0) UNRELEASED; urgency=low
+
+  * Initial release. (Closes: #XXXXXX)
+
+<<<<<<< HEAD
+ -- Sven H. <semiro@gmx.net>  Sat, 03 Dec 2011 15:00:01 +0100
+=======
+ -- Sven H. <semiro@gmx.net>  Sat, 03 Dec 2011 15:00:00 +0100
+>>>>>>> origin/master

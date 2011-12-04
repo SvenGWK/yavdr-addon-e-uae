@@ -1,0 +1,1 @@
+        <command name=<?cs call:quote(_("E-UAE Amiga Emulator")) ?> execute="/usr/share/vdr/menuorg-appswitcher standalone=yes app=e-uae &amp;> /dev/null " />
